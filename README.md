@@ -4,7 +4,7 @@
 I’m currently Exploring My Skiil's By Practising.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 Add Me On Discord : sanket_25_03_#0771<br>😄 Pronouns: He/His<br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/CreativeSpark7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_creativespark7_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-mane-042264236/)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.twitter.com//)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/CreativeSpark7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_creativespark7_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-mane-042264236/) [![Twitter](logo.svg?logo=Twitter&logoColor=white)](https://www.twitter.com//)
 
 
 # 💻 Tech Stack:
