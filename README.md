@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I’m currently Exploring My Skiil's By Practising.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://bit.ly/3KTLOon, https://bit.ly/3AR2RCZ<br>😄 Pronouns: He/His<br>
+I’m currently Exploring My Skiil's By Practising.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://discord.com/channels/@me<br>😄 Pronouns: He/His<br>
 
 
 ## 🌐 Socials:
