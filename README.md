@@ -1,4 +1,4 @@
-<text align=center>### Hi there 👋
+<h1 align=center>### Hi there 👋</h1>
 
 # 💫 About Me:
 I’m currently Exploring My Skiil's By Practising.<br>💬 Good to Ask me Issues & Exciting projects to work on.<br>📫 Add Me On Discord : sanket_25_03_<br>😄 Pronouns: He<br>
