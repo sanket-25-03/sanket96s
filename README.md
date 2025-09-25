@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me
-- 🔭 Currently working as a **Junior Backend Developer** at a company (8+ months of experience).  
+- 🔭 Currently working as a **Junior Backend Developer** at a Apprely Techonologies (8+ months of experience).  
 - ⚙️ Skilled in **API Development, Data Migration, and Airflow DAGs**.  
 - 🌱 Exploring **System Design, Cloud Deployment (AWS/GCP), and CI/CD**.  
 - 💬 Ask me about **Python, APIs, Databases, and exciting backend projects**.  
