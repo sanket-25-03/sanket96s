@@ -1,21 +1,49 @@
-<h1 align=center>### Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Sanket Mane</h1>
+<h3 align="center">🚀 Junior Backend Developer | Python | APIs | Data Pipelines</h3>
 
-# 💫 About Me:
-I’m Sanket Mane and currently Exploring My Skill's.<br>💬 Good to Ask me Issues & Exciting projects to work on.<br>📫 Add Me On Discord : sanket_mane_<br>😄 Pronouns: S A N<br>
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-mane-042264236/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.twitter.com/Sanket_25_03_/)
+# 💫 About Me
+- 🔭 Currently working as a **Junior Backend Developer** at a company (8+ months of experience).  
+- ⚙️ Skilled in **API Development, Data Migration, and Airflow DAGs**.  
+- 🌱 Exploring **System Design, Cloud Deployment (AWS/GCP), and CI/CD**.  
+- 💬 Ask me about **Python, APIs, Databases, and exciting backend projects**.  
+- 📫 Connect with me on Discord: **sanket_mane_**  
+- 😄 Pronouns: **S A N**  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DBMS](https://img.shields.io/badge/DBMS-%2300f.svg?style=for-the-badge&logo=database&logoColor=white) [![SQL](https://img.shields.io/badge/SQL-%23FF6600.svg?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com/) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-%23121011.svg?style=for-the-badge&logo=dsa&logoColor=white) ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanket96s&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanket96s&theme=flag-india&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket96s&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-mane-042264236/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sanket_25_03_)
+
+---
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Airflow](https://img.shields.io/badge/apache%20airflow-017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sanket96s&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanket96s&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket96s&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanket96s&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sanket96s&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
