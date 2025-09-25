@@ -8,14 +8,11 @@
 - ⚙️ Skilled in **API Development, Data Migration, and Airflow DAGs**.  
 - 🌱 Exploring **System Design, Cloud Deployment (AWS/GCP), and CI/CD**.  
 - 💬 Ask me about **Python, APIs, Databases, and exciting backend projects**.  
-- 📫 Connect with me on Discord: **sanket_mane_**  
-- 😄 Pronouns: **S A N**  
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-mane-042264236/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sanket_25_03_)
 
 ---
 
